@@ -1,0 +1,13 @@
+Project idea along with a short description
+Ji Xiayan, Nam Vu, Wenjie Yu
+
+Proposal:
+     - Gaming is one of the largest industry in computer science, surpassing 100 billion USD each year, not including other revenues from ads and other complimentary products. League of Legends is currently the most popular game in the world, with its internet traffic accounting for about half of total internet traffic for gaming in the world. Our project is to build a program that helps people who are or will play the game.
+     - Here’s how we want it to work: The program lets you look up player's names and will come up with statistics of the player's recent matches. This can help user to have more understanding about theirs and their teammates' game play. Besides, the program also provides user with statistics of best and worst characters in the game currently so they can make better decision choosing which character to play. The program also helps new users with choosing characters that match their preference the most to start playing the game.
+     - For us, there are a few features that is appealing to us: how the analytic (win rate, pick rate) can change from time to time, matching with the game server's strategy in the game. It can also helps track a player's best performing character and progress with win rate.
+
+A short work breakdown:
+User's statistics function: Nam Vu
+Character's statistics function: Ji Xiayan
+New player's questionaire and JUnit testing: Wenjie Yu
+Interfaces: Ji Xiayan, Nam Vu, Wenjie Yu

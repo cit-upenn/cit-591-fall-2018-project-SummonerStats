@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="java-json">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Source data/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Source data/riot-api-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Source data/java-json.jar!/" />
+    </SOURCES>
+  </library>
+</component>
